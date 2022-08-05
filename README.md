@@ -6,3 +6,4 @@ no.4
 no.4
 no.3
 no.5
+stash
